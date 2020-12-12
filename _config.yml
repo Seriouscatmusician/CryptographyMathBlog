@@ -20,6 +20,7 @@ navbar-links:
   IT: "it"
   Maths: "maths"
   About Me: "about"
+  Cryptography: "cryptography"
 
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
