@@ -19,6 +19,7 @@ navbar-links:
   Home: "index"
   IT: "it"
   Maths: "maths"
+  About Me: "about"
   Cryptography: "cryptography"
 
 # --- Logo --- #
