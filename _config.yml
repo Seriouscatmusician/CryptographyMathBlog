@@ -3,7 +3,6 @@ title: MusicianCat Blog
 #SEOTitle: 随笔博客 | simple Blog
 #header-img: img/post-bg-desk.jpg
 #email: dreamume@gmail.com
-description: Writing is thought.
 #keyword: "Algorithm, iOS"
 #url: "http://dreamume.github.io"          # your host, for absolute URL
 #baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -37,8 +36,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "dreamume@gmail.com"
-  github: dreamume
+  email: "958722920@qq.com"
+  github: Seriouscatmusician
 
 # --- General options --- #
 # Select which social network share links to show in posts
