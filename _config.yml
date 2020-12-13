@@ -18,9 +18,14 @@ description: Writing is thought.
 navbar-links:
   Home: "index"
   IT: "it"
+  Algorithm: "algorithm"
+  ML: "ml"
   Maths: "maths"
-  About Me: "about"
   Cryptography: "cryptography"
+  PWN: "pwn"
+  Reverse: "reverse"
+  About Me: "about"
+  
 
 # --- Logo --- #
 # Image to show in the navigation bar - works best with a square image
