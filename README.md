@@ -1,4 +1,4 @@
 A blog about my learning experience
 
-#website
+# Website
 https://seriouscatmusician.github.io/CryptographyMathBlog/
