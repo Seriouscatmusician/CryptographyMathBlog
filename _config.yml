@@ -16,7 +16,7 @@ title: MusicianCat Blog
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  随笔: "literature"
+  随笔: "随笔"
   Algorithm: "algorithm"
   ML: "ml"
   Maths: "maths"
