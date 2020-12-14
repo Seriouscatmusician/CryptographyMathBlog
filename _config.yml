@@ -17,13 +17,13 @@ title: MusicianCat Blog
 navbar-links:
   Home: "index"
   随笔: "随笔"
-  Algorithm: "algorithm"
-  ML: "ml"
-  Maths: "maths"
-  Cryptography: "cryptography"
-  PWN: "pwn"
-  Reverse: "reverse"
-  About Me: "about"
+  Algorithm: "Algorithm"
+  ML: "Ml"
+  Maths: "Maths"
+  Cryptography: "Cryptography"
+  PWN: "Pwn"
+  Reverse: "Reverse"
+  About Me: "About"
   
 
 # --- Logo --- #
