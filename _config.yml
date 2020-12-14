@@ -18,10 +18,10 @@ navbar-links:
   Home: "index"
   随笔: "随笔"
   Algorithm: "Algorithm"
-  ML: "Ml"
+  ML: "ML"
   Maths: "Maths"
   Cryptography: "Cryptography"
-  PWN: "Pwn"
+  PWN: "PWN"
   Reverse: "Reverse"
   About Me: "About"
   
