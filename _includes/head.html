@@ -141,6 +141,7 @@
   {% endif %}
 
   <!-- add incline method -->
+  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
   <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     jax: ["input/TeX", "output/HTML-CSS"],
@@ -161,7 +162,7 @@
     "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
     });
   </script>
-  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+  
 
   {% if page.head-extra %}
     {% for file in page.head-extra %}
