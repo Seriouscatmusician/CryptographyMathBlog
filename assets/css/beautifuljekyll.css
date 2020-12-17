@@ -3,15 +3,14 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
-
+@font-face{
+        font-family： "Hiragino sans GB W3";
+        src: url('../font/Hiragino-Sans-GB-W3.otf');
+}
 /* --- General --- */
 
 html {
   font-size: 90%
-}
-@font-face{
-        font-family： "Hiragino sans GB W3";
-        src: url('../../font/Hiragino-Sans-GB-W3.otf');
 }
 body {
   font-family: 'Hiragino sans GB W3', 'Times New Roman', sans-serif;
