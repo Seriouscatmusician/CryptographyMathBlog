@@ -1036,5 +1036,5 @@ pre {
 .definition:before {
     content: "Definition.";
     font-weight: bold;
-    font-style: italic;
+    font-style: normal;
 }
