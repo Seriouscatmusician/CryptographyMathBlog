@@ -6,10 +6,10 @@ layout: null
 @font-face{
         font-family： "Hiragino sans GB W3";
         src: url('../font/hiragino-sans-gb-w3-webfont.eot');
-        src: url('../fonts/hiragino-sans-gb-w3-webfont.eot?#iefix') format('embedded-opentype'),           
-             url('../fonts/hiragino-sans-gb-w3-webfont.woff') format('woff'),           
-             url('../fonts/hiragino-sans-gb-w3-webfont.ttf') format('truetype'),          
-             url('../fonts/hiragino-sans-gb-w3-webfont.svg#Hiragino sans GB W3') format('svg');      
+        src: url('../font/hiragino-sans-gb-w3-webfont.eot?#iefix') format('embedded-opentype'),           
+             url('../font/hiragino-sans-gb-w3-webfont.woff') format('woff'),           
+             url('../font/hiragino-sans-gb-w3-webfont.ttf') format('truetype'),          
+             url('../font/hiragino-sans-gb-w3-webfont.svg#Hiragino sans GB W3') format('svg');      
 }
 /* --- General --- */
 
