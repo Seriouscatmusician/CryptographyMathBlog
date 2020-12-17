@@ -9,9 +9,12 @@ layout: null
 html {
   font-size: 90%
 }
-
+@font-face{
+        font-family： "Hiragino sans GB W3";
+        src: url('../../font/Hiragino-Sans-GB-W3.otf');
+}
 body {
-  font-family: 'Hiragino Sans GB', 'Times New Roman', sans-serif;
+  font-family: 'Hiragino sans GB W3', 'Times New Roman', sans-serif;
   font-size: 1.125rem;
   font-weight:500;
   color: {{ site.text-col | default: "#404040" }};
