@@ -5,7 +5,7 @@ layout: null
 @import url("pygment_highlights.css");
 @font-face{
         font-family： "Hiragino sans GB W3";
-        src: url('../font/Hiragino-Sans-GB-W3.otf')format('opentype');
+        src: url('../font/Hiragino-Sans-GB-W3.otf') format('opentype');
 }
 /* --- General --- */
 
